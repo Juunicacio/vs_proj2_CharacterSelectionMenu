@@ -1,0 +1,17 @@
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.exe
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.deps.json
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.runtimeconfig.json
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.runtimeconfig.dev.json
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.dll
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\bin\Debug\netcoreapp3.1\CharacterSelectionMenu.pdb
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.csproj.AssemblyReference.cache
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.Form1.resources
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.csproj.GenerateResource.cache
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.AssemblyInfoInputs.cache
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.AssemblyInfo.cs
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.csproj.CoreCompileInputs.cache
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.dll
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.pdb
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.genruntimeconfig.cache
+D:\ju_gameProgramming\CharacterSelectionMenu\CharacterSelectionMenu\obj\Debug\netcoreapp3.1\CharacterSelectionMenu.Properties.Resources.resources
